@@ -1,5 +1,7 @@
 # Map Zoom Out
 
+<img src="mod_icon.jpg">
+
 A small mod for **American Truck Simulator** that lets you zoom out further on the world map.
 
 - Version: 1.1
