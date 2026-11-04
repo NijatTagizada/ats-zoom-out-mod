@@ -27,6 +27,6 @@ Nicat Tagizada
 
 ## License
 
-© [2026] [Nicat Tagizada]. All Rights Reserved.
+© 2026 Nicat Tagizada. All Rights Reserved.
 
 Unauthorized copying, distribution, modification, or commercial use of this software and its documentation is strictly prohibited.
